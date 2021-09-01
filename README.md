@@ -13,3 +13,9 @@ to get and show the full information about current date and time in selected cit
 * pytz
 * datetime
 
+
+
+![weather_tool](https://github.com/teora13/WeatherTool/blob/main/weather_tool.gif)
+
+![error](https://github.com/teora13/WeatherTool/blob/main/error.gif)
+
